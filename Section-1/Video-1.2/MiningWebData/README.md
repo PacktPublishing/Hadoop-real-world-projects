@@ -1,2 +1,2 @@
 # Hadoop-real-world-projects
-Code repository for Hadoop real-world projects, Published By Packt
+This is the example application for Mining Web Data as explained in Video 1.2
